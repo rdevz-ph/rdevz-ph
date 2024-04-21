@@ -10,7 +10,7 @@
 
 <p align="center"> 
   Visitors count<br>
-  <img src="https://profile-counter.glitch.me/rdevzph25/count.svg" />
+  <img src="https://profile-counter.glitch.me/rdevz-ph/count.svg" />
 </p>
 
 
@@ -125,11 +125,11 @@ To install EZConnect VPN, simply download it from the Google Play Store using th
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rdevzph25&theme=github-dark-blue)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rdevz-ph&theme=github-dark-blue)](https://git.io/streak-stats)
 
 <a href="https://github.com/rdevzph25/">
-  <img src="https://github-readme-stats.vercel.app/api?username=rdevzph25&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rdevzph25&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="rdevzph25"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rdevz-ph&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rdevz-ph&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="rdevzph25"/>
 
 </a>
 </div>
