@@ -29,39 +29,29 @@
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> My Awesome App</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> My Freelance Projects</b>
 <br>
 
-<h3>App Name: EZConnect VPN</h3>
+<h3>Screenshots of my freelance projects from 2020 - present</h3>
 
 ## Screenshots
 <p align="left">
-  <img src="docs-1/Screenshot-1.jpg" alt="Screenshot 1"style="width: 100px; display: inline-block;">
-  <img src="docs-1/Screenshot-2.jpg" alt="Screenshot 2" style="width: 100px; display: inline-block;">
-  <img src="docs-1/Screenshot-3.jpg" alt="Screenshot 3" style="width: 100px; display: inline-block;">
-<img src="docs-1/Screenshot-4.jpg" alt="Screenshot 4"
+  <img src="docs-1/Screenshot-1.png" alt="Screenshot 1"style="width: 100px; display: inline-block;">
+  <img src="docs-1/Screenshot-2.png" alt="Screenshot 2" style="width: 100px; display: inline-block;">
+  <img src="docs-1/Screenshot-3.png" alt="Screenshot 3" style="width: 100px; display: inline-block;">
+<img src="docs-1/Screenshot-4.png" alt="Screenshot 4"
 style="width: 100px; display: inline-block;">
-<img src="docs-1/Screenshot-5.jpg" alt="Screenshot 5"
-style="width: 100px; display: inline-block;">
-<img src="docs-1/Screenshot-6.jpg" alt="Screenshot 6"
+<img src="docs-1/Screenshot-5.png" alt="Screenshot 5"
 style="width: 100px; display: inline-block;">
 </p>
 
-[Download on Google Play](https://play.google.com/store/apps/details?id=rdevz.ezconnect.vpn)
-
 ## Description
 
-EZConnect VPN is a simple VPN application built with Material Design components.
+These websites are built with HTML/CSS/JS for front-end and PHP&MySQL backend.
 
-## Installation
-
-To install EZConnect VPN, simply download it from the Google Play Store using the link above.
-
-## Usage
-1. Update Resources
-2. Select Server
-3. Select Tweak
-4. Start VPN
+## Tools Used
+1. Visual Studio Code
+2. XAMPP (PHP 8)
 
 
 <br><br>
