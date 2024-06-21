@@ -50,7 +50,7 @@ style="width: 100px; display: inline-block;">
 These websites are built with HTML/CSS/JS for front-end and PHP&MySQL for backend.
 
 ## Tools Used
-1. Visual Studio Code
+1. Visual Studio Code (IDE)
 2. XAMPP (PHP 8)
 
 
