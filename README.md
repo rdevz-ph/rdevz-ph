@@ -47,7 +47,7 @@ style="width: 100px; display: inline-block;">
 
 ## Description
 
-These websites are built with HTML/CSS/JS for front-end and PHP&MySQL backend.
+These websites are built with HTML/CSS/JS for front-end and PHP&MySQL for backend.
 
 ## Tools Used
 1. Visual Studio Code
