@@ -68,7 +68,14 @@ These websites are built with HTML/CSS/JS for front-end and PHP&MySQL for backen
     ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
     ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-<br>   
+<br> 
+
+- **Frameworks**:
+    
+    ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-%23DD4814.svg?style=for-the-badge&logo=codeigniter&logoColor=white)
+
+<br>
     
 - **Front-End Development**:
 
