@@ -24,7 +24,7 @@
 
 - A passionate self-taught programmer
 - Currently learning web and app development by myself
-- Personal website [Coming soon](https://)
+- Personal website [Portfolio](https://romel-laravel-portfolio.online/)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://resume.io/r/f51rFc32k)
 <br><br>
 
