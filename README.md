@@ -41,7 +41,6 @@
     
     ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
     ![Vue.js](https://img.shields.io/badge/Vue.js%20-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)
-    ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-%23DD4814.svg?style=for-the-badge&logo=codeigniter&logoColor=white)
 
 <br>
     
@@ -59,12 +58,12 @@
 
 <br>
 
-- **Tools & DevOps**:
+ - **Tools & DevOps**:
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-    ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+    ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+    ![XAMPP](https://img.shields.io/badge/XAMPP-%23FB7A24.svg?style=for-the-badge&logo=xampp&logoColor=white)
 
 </p>
 
