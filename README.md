@@ -11,14 +11,42 @@
   <img src="https://profile-counter.glitch.me/rdevz-ph/count.svg" />
 </p>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+<div align="center">
 
-<br>
+## 👤 <b>About Me</b>
 
-- 💻 Passionate self-taught full-stack developer
-- 🌱 Currently mastering advanced Laravel and many more
-- 🚀 Check out my work: [Portfolio Website](https://romel-laravel-portfolio.online/)
-- 🔍 Always open for new opportunities
+<table>
+  <tr>
+    <td>🎓</td>
+    <td><b>Self-taught programmer</b> passionate about continuous learning and innovation.</td>
+  </tr>
+  <tr>
+    <td>💼</td>
+    <td><b>Freelance Laravel developer</b> experienced in building modern, scalable web applications.</td>
+  </tr>
+  <tr>
+    <td>🛠️</td>
+    <td>Tech stack includes <b>Laravel, Vue.js, Tailwind CSS, and MySQL</b>.</td>
+  </tr>
+  <tr>
+    <td>🌟</td>
+    <td>Loves exploring new technologies and solving real-world problems through code.</td>
+  </tr>
+  <tr>
+    <td>📫</td>
+    <td>Email me: <a href="mailto:brosasromel01@gmail.com"><b>brosasromel01@gmail.com</b></a></td>
+  </tr>
+  <tr>
+    <td>🌐</td>
+    <td>Visit my portfolio: <a href="https://romel-laravel-portfolio.online/"><b>Portfolio Website</b></a></td>
+  </tr>
+  <tr>
+    <td>🚀</td>
+    <td>Always striving to grow and contribute meaningfully to the tech community.</td>
+  </tr>
+</table>
+
+</div>
 
 <br>
 
