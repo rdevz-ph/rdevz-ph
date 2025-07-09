@@ -38,7 +38,7 @@
   </tr>
   <tr>
     <td>🌐</td>
-    <td>Visit my portfolio: <a href="https://romel-laravel-portfolio.online/"><b>Portfolio Website</b></a></td>
+    <td>Visit my portfolio: <a href="https://romel-portfolio.vercel.app/"><b>Portfolio Website</b></a></td>
   </tr>
   <tr>
     <td>🚀</td>
