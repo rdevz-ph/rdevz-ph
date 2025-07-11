@@ -6,10 +6,11 @@
 
 <br>
 
-<p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/rdevz-ph/count.svg" />
-</p>
+<div align="center">
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=rdevz-ph&style=for-the-badge&color=0e75b6" alt="Profile views"/>
+  </p>
+</div>
 
 <div align="center">
 
